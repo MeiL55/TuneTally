@@ -1,4 +1,5 @@
-# Tunetally， an Android Studio, Firebase powered Spotify Wrapped available to all users!
+# Tunetally
+an Android Studio, Firebase powered Spotify Wrapped available to all users!
 
 Functions: viewing your top tracks, top artists (with album images and music!). Get advice from GPT-3.5. Unscrambled game with your top artists. Viewing your past music summaries!
 
